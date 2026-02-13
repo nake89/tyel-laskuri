@@ -1,0 +1,26 @@
+
+Työeläkemaksut
+
+Suomessa työeläkkeet rahoitetaan pääasiassa työnantajien, työntekijöiden ja yrittäjien maksamilla työeläkevakuutusmaksuilla.
+
+Vahvistetut työntekijöiden ja yrittäjien työeläkevakuutusmaksuprosentit sekä arvioidut kokonaismaksukertymät vuodelle 2026
+Vakuutettavat/eläkelaki	Kokonaismaksukertymä % työtulosta	Työntekijän / yrittäjän maksuosuus %
+Yksityisten alojen palkansaajat/TyEL	24,4	7,3
+Merenkulkijat/MEL	18,7	7,3
+Kevan jäsenyhteisöt/JuEL	26,6	7,3
+Valtio/JuEL	24,4	7,3
+Ev. lut. kirkko/JuEL	29,0	7,3
+Yrittäjät/YEL	23,0	24,4
+Maatalousyrittäjät ja apurahan saajat/MYEL	13,7/13,5	24,4
+
+Vahvistetut työntekijöiden ja yrittäjien työeläkevakuutusmaksuprosentit sekä arvioidut kokonaismaksukertymät vuodelle 2025
+Vakuutettavat/eläkelaki	Kokonaismaksukertymä % työtulosta	Työntekijän / yrittäjän maksuosuus %, alle 53 v. ja väh. 63 v. 	Työntekijän / yrittäjän maksuosuus %, 53-62 v.
+Yksityisten alojen palkansaajat/TyEL	24,85	7,15	8,65
+Merenkulkijat/MEL	19,0	7,15	8,65
+Kevan jäsenyhteisöt/JuEL
+	26,75	7,15	8,65
+Valtio/JuEL	24,85
+	7,15	8,65
+Ev. lut. kirkko/JuEL	28,96	7,15	8,65
+Yrittäjät/YEL	23,1	24,1	25,6
+Maatalousyrittäjät ja apurahan saajat/MYEL	13,9/13,4	24,1	25,6
